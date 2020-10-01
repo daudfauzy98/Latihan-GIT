@@ -3,6 +3,10 @@
 print("Latihan implementasi GIT")
 
 
-for _ in range(0, 10)
-    print(f"Angka : {_}", end='')
+print("Angka : ", end='')
+for _ in range(0, 10):
+    print(_, end='')
 
+print("Pesan : ", end='')
+for _ in "Belajar GIT":
+    print(_, end='')
