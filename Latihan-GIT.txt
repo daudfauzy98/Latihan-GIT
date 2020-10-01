@@ -1,4 +1,6 @@
 Latihan GIT
 - Membuat akun Github
-- mengetahui command dasar GIT
-- integrasi GIT
+- Mengetahui command dasar GIT
+- Integrasi GIT
+- Melakukan praktik GIT
+- Melakukan kolaborasi GIT
